@@ -1,0 +1,5 @@
+huggingface_hub==0.22.2
+gradio
+transformers==4.40.2
+peft
+sentencepiece
